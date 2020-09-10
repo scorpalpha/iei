@@ -1,0 +1,29 @@
+.login-page { background: url(../images/honey-bg.jpg);background-size: cover; }
+.login-box { background: #fff;padding-top: 10px; }
+.login-logo, .register-logo { margin-bottom: 0; border-bottom: 1px solid #EAEAEA;  padding-bottom: 25px; }
+
+/*add product page styles*/
+.add-product-page { background: #f5f5f5; color: #4A4949; }
+header { background: #f1f1f1; }
+.navbar-default .navbar-nav>li>a { text-transform: capitalize; color: #E20000; }
+.navbar-default .navbar-nav>li>a i { margin-right: 5px; }
+/*.navbar-header { float: none; }
+.navbar-brand { display: block;float: none; }
+.navbar-brand>img { margin: auto; }*/
+.add-products-form form { background: #fff;border-radius: 2px;padding: 15px;margin-top: 15px; }
+.form-horizontal .control-label { text-align: left;}
+.col-6 { float: none;margin: auto; }
+.product-list-img h2 { border-bottom: 1px solid #00C0EF; font-size: 22px; padding: 10px 0;text-transform: capitalize; margin-bottom: 30px;}
+.product-list-img .control-label { padding-top: 0;}
+.box-footer { border-color: #00C0EF; }
+.btn-primary { background: #248830; }
+.table-body { overflow-x:auto;}
+.table-body table { font-size: 13px; }
+.table-body table tbody tr:hover { background: #FFFFBD; }
+.table-body table .product_name { text-transform: capitalize; }
+.table-body table thead tr th { vertical-align: top; }
+.table-body table img { max-width: 75px; }
+.table-body table .edit,.table-body table .delete { text-align: center; background: #2C5FBF ;border-radius: 2px; padding: 5px;color: #fff;cursor: pointer;font-size: 15px;}
+.table-body table .delete  { background: #D81111; }
+
+footer { padding-top: 0;}
